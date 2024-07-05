@@ -164,7 +164,7 @@ html_static_path = ['_static']
 # html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'MLops maindoc'
+htmlhelp_basename = 'Mlopsdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -184,7 +184,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
     ('index',
-     'MLops main.tex',
+     'Mlops.tex',
      u'Wafer3 Documentation',
      u"Morris Lesinko", 'manual'),
 ]
@@ -215,7 +215,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'MLops main', u'Wafer3 Documentation',
+    ('index', 'Mlops', u'Wafer3 Documentation',
      [u"Morris Lesinko"], 1)
 ]
 
@@ -229,9 +229,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'MLops main', u'Wafer3 Documentation',
+    ('index', 'Mlops', u'Wafer3 Documentation',
      u"Morris Lesinko", 'Wafer3',
-     'It is a wafer projects using Mlops', 'Miscellaneous'),
+     'It is a wafer3 projrct', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

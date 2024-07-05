@@ -1,7 +1,7 @@
 Wafer3
 ==============================
 
-It is a wafer projects using Mlops
+It is a wafer3 projrct
 
 Project Organization
 ------------
